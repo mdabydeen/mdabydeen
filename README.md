@@ -4,6 +4,10 @@ I lead software teams and teach systems design. My work spans enterprise logisti
 
 I write about API behaviour, engineering decisions, and how teams review and operate automated work. The examples I publish distinguish a proposed design from an implemented control and a test result from a production outcome.
 
+## Start here
+
+If you are evaluating AI-assisted development, begin with the [free review kit](https://michaeldabydeen.com/resources/review-kit.zip), then inspect the [Stopline team evaluation path](https://github.com/mdabydeen/stopline/blob/main/docs/team-evaluation-guide.md). Teams that want facilitated application can review the [private workshop interest details](https://michaeldabydeen.com/workshops/ai-assisted-code-review).
+
 ## Projects to inspect
 
 - [Stopline](https://github.com/mdabydeen/stopline): an experimental decision gate for browser agents. A model classifies a proposed action; a policy in code determines whether it runs.
