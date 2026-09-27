@@ -25,4 +25,4 @@ These are public engineering projects. Their documentation describes the impleme
 
 ## Writing and conversation
 
-Read my [technical writing on DEV](https://dev.to/_firelinks) or find me on [LinkedIn](https://www.linkedin.com/in/mdabydeen/). My [website](https://michaeldabydeen.com) collects my writing and background.
+Read my [technical writing on DEV](https://dev.to/_firelinks), find me on [LinkedIn](https://www.linkedin.com/in/mdabydeen/), or follow shorter notes on [X](https://x.com/_firelinks). My [website](https://michaeldabydeen.com) collects my writing and background.
