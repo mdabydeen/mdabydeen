@@ -11,6 +11,11 @@ I write about API behaviour, engineering decisions, and how teams review and ope
 
 These are public engineering projects. Their documentation describes the implementation and its limits.
 
+## Review and workshop material
+
+- [Free AI-assisted code review kit](https://michaeldabydeen.com/resources/review-kit.zip): an illustrative exercise, worked answer, worksheet, and facilitator guide.
+- [Private workshop interest details](https://michaeldabydeen.com/workshops/ai-assisted-code-review): a proposed team session with scope and limits; it is not a booking or checkout.
+
 ## Writing and conversation
 
 Read my [technical writing on DEV](https://dev.to/_firelinks) or find me on [LinkedIn](https://www.linkedin.com/in/mdabydeen/). My [website](https://michaeldabydeen.com) collects my writing and background.
