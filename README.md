@@ -7,6 +7,7 @@ I write about API behaviour, engineering decisions, and how teams review and ope
 ## Projects to inspect
 
 - [Stopline](https://github.com/mdabydeen/stopline): an experimental decision gate for browser agents. A model classifies a proposed action; a policy in code determines whether it runs.
+  - [Team evaluation path](https://github.com/mdabydeen/stopline/releases/tag/v0.1.6): a zero-credential baseline, revision-bound demo, and evidence-led review route.
 - [Metron](https://github.com/mdabydeen/metron): a small terminal coding agent for local AI development, with bounded tools and explicit approval for patches.
 
 These are public engineering projects. Their documentation describes the implementation and its limits.
