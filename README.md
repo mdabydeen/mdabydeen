@@ -1,30 +1,16 @@
 # Mike Dabydeen
 
-🔗 Blockchain Visionary | VP of Engineering 🔧
+I lead software teams and teach systems design. My work spans enterprise logistics APIs at Purolator Digital Lab, creator IP protection at UREEQA, and teaching at Sheridan and Conestoga.
 
-🚀 20+ Years Catalyzing Tech Evolution 🌍
+I write about API behaviour, engineering decisions, and how teams review and operate automated work. The examples I publish distinguish a proposed design from an implemented control and a test result from a production outcome.
 
-Greetings! 👋 I'm [Mike Dabydeen](https://michaeldabydeen.com). I'm a technologist & engineering leader. Over the last decade and a half, I've been at the nexus of technological advancement, diving deep into the realms of blockchain, SaaS, cybersecurity, and DevOps.I've been on the frontlines of technological innovation, specializing in the transformative world of web, mobile and blockchain development. I currently wear the hat of VP of Engineering at [UREEQA](https://ureeqa.com), where I guide an ambitious team to architect the decentralized future for creators.
+## Projects to inspect
 
-Highlights:
+- [Stopline](https://github.com/mdabydeen/stopline): an experimental decision gate for browser agents. A model classifies a proposed action; a policy in code determines whether it runs.
+- [Metron](https://github.com/mdabydeen/metron): a small terminal coding agent for local AI development, with bounded tools and explicit approval for patches.
 
-📈 Successfully scaled engineering teams from startup phases to enterprise-level operations.
+These are public engineering projects. Their documentation describes the implementation and its limits.
 
-🚀 Passionate about leveraging blockchain for real-world solutions, sustainability, and global impact.
+## Writing and conversation
 
-🛠 Pioneered and executed key blockchain projects that have reshaped industries.
-
-🔒 Championed cybersecurity initiatives, ensuring robustness and trust in every venture.
-
-🌀 Mastered the art and science of DevOps, accelerating deployments and boosting efficiencies.
-
-🚀 A staunch advocate for leveraging tech to solve real-world challenges and make a tangible difference.
-
-Eager to chat about emerging tech, next-gen blockchain use-cases, or even just the latest trends in the crypto world. Let's innovate together! 🌟
-
-🔗 Connect with me for collaborations, insights, or just a tech-inspired chat.
-
-* [X (formerly Twitter)](https://twitter.com/_firelinks)
-* [Website / Blog](https://michaeldabydeen.com)
-
-"Crafting the future, one code commit at a time." 💡🔗
+Read my [technical writing on DEV](https://dev.to/_firelinks) or find me on [LinkedIn](https://www.linkedin.com/in/mdabydeen/). My [website](https://michaeldabydeen.com) collects my writing and background.
