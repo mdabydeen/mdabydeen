@@ -15,6 +15,7 @@ If you are evaluating AI-assisted development, begin with the [free review kit](
   - [Latest Stopline release](https://github.com/mdabydeen/stopline/releases/tag/v0.1.7): current implementation and release notes.
 - [Metron](https://github.com/mdabydeen/metron): a small terminal coding agent for local AI development, with bounded tools and explicit approval for patches.
   - [Metron v0.1.0 release](https://github.com/mdabydeen/metron/releases/tag/v0.1.0): Darwin/Linux archives, checksums, and SPDX SBOMs.
+- [pi-nimble-router](https://github.com/mdabydeen/pi-nimble-router): a local-first Pi extension that uses a local Ollama decision to route each turn among local and authenticated remote model tiers.
 
 These are public engineering projects. Their documentation describes the implementation and its limits.
 
