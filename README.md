@@ -16,6 +16,8 @@ If you are evaluating AI-assisted development, begin with the [free review kit](
 - [Metron](https://github.com/mdabydeen/metron): a small terminal coding agent for local AI development, with bounded tools and explicit approval for patches.
   - [Metron v0.1.0 release](https://github.com/mdabydeen/metron/releases/tag/v0.1.0): Darwin/Linux archives, checksums, and SPDX SBOMs.
 - [pi-nimble-router](https://github.com/mdabydeen/pi-nimble-router): a local-first Pi extension that uses a local Ollama decision to route each turn among local and authenticated remote model tiers.
+  - [v0.2.1 release](https://github.com/mdabydeen/pi-nimble-router/releases/tag/v0.2.1): pinned GitHub install, redacted debug output, and the current package artifact.
+  - [Evaluation checklist](https://github.com/mdabydeen/pi-nimble-router/blob/main/docs/evaluation-checklist.md): a bounded local baseline and fallback review path; it is not a benchmark or production-readiness claim.
 
 These are public engineering projects. Their documentation describes the implementation and its limits.
 
